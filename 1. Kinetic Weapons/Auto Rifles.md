@@ -1,6 +1,22 @@
 # AUTO RIFLES:
 
-## BRAYTECH WEREWOLF:
+### 360RPM (3)
+
+### 450RPM (7)
+
+### 600RPM (6)
+
+### 720RPM (4)
+
+---
+
+### STASIS (2)
+
+### STRAND (3)
+
+---
+
+## BRAYTECH WEREWOLF --- 450RPM(7), S11:
 
 -   `Fourth Time's the Charm, Swashbuckler`
 
@@ -14,7 +30,11 @@ dimwishlist:item=528834068&perks=1354429876,1546637391#notes:GM's
 
 ---
 
-## CHROMA RUSH:
+## BRAYTECH WEREWOLF --- 450RPM(7), S18:
+
+---
+
+## CHROMA RUSH --- 720RPM(4):
 
 -   `Feeding Frenzy, Adrenaline Junkie`
 -   `Subsistence___, Adrenaline Junkie`
@@ -46,7 +66,7 @@ dimwishlist:item=1119734784&perks=2946784966,1015611457#notes:PvP
 
 ---
 
-## DUTY BOUND:
+## DUTY BOUND --- 600RPM(6):
 
 -   `Stats for All, One for All`
 
@@ -66,7 +86,7 @@ dimwishlist:item=435216110&perks=3400784728,1546637391#notes:GM's
 
 ---
 
-## DUTY BOUND (ADEPT):
+## DUTY BOUND (ADEPT) --- 600RPM(6):
 
 -   `Stats for All, One for All`
 
@@ -86,7 +106,7 @@ dimwishlist:item=1135050595&perks=3400784728,1546637391#notes:GM's
 
 ---
 
-## FALSE PROMISES:
+## FALSE PROMISES --- 360RPM(3):
 
 -   `Feeding Frenzy, Swashbuckler`
 -   `Feeding Frenzy, Rampage`
@@ -102,7 +122,11 @@ dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:PvE
 
 ---
 
-## HEROD-C:
+## FIREFRIGHT --- 450RPM(7):
+
+---
+
+## HEROD-C --- 360RPM(3), STASIS(2):
 
 -   `Fourth Time's the Charm, Demolitionist`
 -   `Fourth Time's the Charm, Frenzy`
@@ -134,7 +158,7 @@ dimwishlist:item=1788603939&perks=3300816228,1546637391#notes:GM's
 
 ---
 
-## HORROR STORY:
+## HORROR STORY --- 450RPM(7):
 
 -   `Subsistence, Demolitionist`
 -   `Outlaw_____, Demolitionist`
@@ -144,7 +168,7 @@ dimwishlist:item=3829285960&perks=1168162263,3523296417#notes:PvE
 
 ---
 
-## KRAIT:
+## KRAIT --- 720RPM(4), STASIS(2):
 
 -   `Stats for All, One for All`
 -   `Subsistence__, One for All`
@@ -160,7 +184,23 @@ dimwishlist:item=2852052802&perks=3300816228,1546637391#notes:GM's
 
 ---
 
-## SCATHELOCKE:
+## LODBROK-C --- 360RPM(3):
+
+---
+
+## PERPETUALIS --- 600RPM(6), STRAND(3):
+
+---
+
+## RUFUS'S FURY --- 720RPM(4), STRAND(3):
+
+---
+
+## RUFUS'S FURY (ADEPT) --- 720RPM(4), STRAND(3):
+
+---
+
+## SCATHELOCKE --- 600RPM(6):
 
 -   `Subsistence, Rampage`
 -   `Subsistence, Adrenaline Junkie`
@@ -170,7 +210,7 @@ dimwishlist:item=602618796&perks=1820235745,11612903#notes:PvE
 
 ---
 
-## SEVENTH SERAPH CARBINE:
+## SEVENTH SERAPH CARBINE --- 450RPM(7), S10:
 
 -   `Armor-Piercing Rounds, Fourth Time's the Charm, Vorpal Weapon`
 -   `_____________________, Fourth Time's the Charm, Vorpal Weapon`
@@ -192,7 +232,11 @@ dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:PvE
 
 ---
 
-## THE FORWARD PATH:
+## SEVENTH SERAPH CARBINE --- 450RPM(7), S19:
+
+---
+
+## THE FORWARD PATH --- 600RPM(6):
 
 -   `Feeding Frenzy, Swashbuckler`
 
@@ -200,7 +244,7 @@ dimwishlist:item=1690783811&perks=2779035018,4082225868#notes:PvE
 
 ---
 
-## THE LAST BREATH:
+## THE LAST BREATH --- 600RPM(6):
 
 -   `Demolitionist, Adrenaline Junkie`
 -   `Demolitionist, Frenzy`
@@ -214,7 +258,7 @@ dimwishlist:item=507038823&perks=1820235745,4049631843#notes:PvE
 
 ---
 
-## TIGERSPITE:
+## TIGERSPITE --- 450RPM(7):
 
 -   `Outlaw, Swashbuckler`
 -   `Outlaw, Demolitionist`
