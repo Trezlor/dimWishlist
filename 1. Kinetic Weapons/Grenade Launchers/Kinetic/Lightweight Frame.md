@@ -1,4 +1,10 @@
-# GRENADE LAUNCHERS:
+> `Lightweight Frame`
+
+> `Kinetic`
+
+---
+
+<img src="https://bungie.net/common/destiny2_content/screenshots/304659313.jpg" width="500px" style="border-radius: 16px">
 
 ## IGNITION CODE:
 
@@ -30,20 +36,34 @@ dimwishlist:item=304659313&perks=3032599245,1546637391#notes:PvE & GM's
 
 ---
 
+<img src="https://bungie.net/common/destiny2_content/screenshots/3849810018.jpg" width="500px" style="border-radius: 16px">
+
 ## PARDON OUR DUST:
 
--   `Disorienting Grenades, Auto-Loading, Vorpal Weapon`
--   `Disorienting Grenades, Auto-Loading, _____________`
-
-dimwishlist:item=3849810018&perks=3032599245,3300816228,1546637391#notes:PvE & GM's  
-dimwishlist:item=3849810018&perks=3032599245,3300816228#notes:PvE & GM's
+-   Craftable
 
 ---
 
-## THE MOUNTAINTOP:
+<img src="https://bungie.net/common/destiny2_content/screenshots/40394833.jpg" width="500px" style="border-radius: 16px">
 
--   `Hard Launch, Spike Grenades, Rangefinder, Micro-Missile`
+## THE MILITIAS BIRTHRIGHT (S18):
 
-dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994#notes:Was good in everything, RIP
+---
+
+<img src="https://bungie.net/common/destiny2_content/screenshots/2378101424.jpg" width="500px" style="border-radius: 16px">
+
+## THE MILITIAS BIRTHRIGHT (ADEPT) (S18):
+
+---
+
+<img src="https://bungie.net/common/destiny2_content/screenshots/1854753405.jpg" width="500px" style="border-radius: 16px">
+
+## THE MILITIAS BIRTHRIGHT (S20):
+
+---
+
+<img src="https://bungie.net/common/destiny2_content/screenshots/4162642204.jpg" width="500px" style="border-radius: 16px">
+
+## THE MILITIAS BIRTHRIGHT (ADEPT) (S20):
 
 ---

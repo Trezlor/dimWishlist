@@ -50,24 +50,24 @@ dimwishlist:item=211938782&perks=201365942,1546637391#notes:GM's, go for Draw Ti
 
 <img src="https://bungie.net/common/destiny2_content/screenshots/1574601402.jpg" width="500px" style="border-radius: 16px">
 
-## WHISTLER'S WHIM - S18:
+## WHISTLER'S WHIM (S18):
 
 ---
 
 <img src="https://bungie.net/common/destiny2_content/screenshots/711889599.jpg" width="500px" style="border-radius: 16px">
 
-## WHISTLER'S WHIM (ADEPT) - S18:
+## WHISTLER'S WHIM (ADEPT) (S18):
 
 ---
 
-<!-- <img src="https://bungie.net/common/destiny2_content/screenshots/1574601402.jpg" width="500px" style="border-radius: 16px"> -->
+<img src="https://bungie.net/common/destiny2_content/screenshots/1574601402.jpg" width="500px" style="border-radius: 16px">
 
-## WHISTLER'S WHIM - S20:
+## WHISTLER'S WHIM (S20):
 
 ---
 
-<!-- <img src="https://bungie.net/common/destiny2_content/screenshots/711889599.jpg" width="500px" style="border-radius: 16px"> -->
+<img src="https://bungie.net/common/destiny2_content/screenshots/711889599.jpg" width="500px" style="border-radius: 16px">
 
-## WHISTLER'S WHIM (ADEPT) - S20:
+## WHISTLER'S WHIM (ADEPT) (S20):
 
 ---
