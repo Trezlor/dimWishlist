@@ -1,3 +1,5 @@
+> `Precision Frame`
+
 > `450 RPM`
 
 > `Kinetic`
@@ -28,15 +30,7 @@ dimwishlist:item=2869466318&perks=1820235745,4082225868#notes:PvE
 
 ## FIREFRIGHT:
 
--   `_________Fourth Time's the Charm, _________Focused Fury`
--   `Enhanced Fourth Time's the Charm, _________Focused Fury`
--   `_________Fourth Time's the Charm, Enhanced Focused Fury`
--   `Enhanced Fourth Time's the Charm, Enhanced Focused Fury`
-
-dimwishlist:item=2778013407&perks=1354429876,2896038713#notes:GM's  
-dimwishlist:item=2778013407&perks=848860060,2896038713#notes:GM's  
-dimwishlist:item=2778013407&perks=1354429876,2402480669#notes:GM's  
-dimwishlist:item=2778013407&perks=848860060,2402480669#notes:GM's
+-   Craftable
 
 ---
 

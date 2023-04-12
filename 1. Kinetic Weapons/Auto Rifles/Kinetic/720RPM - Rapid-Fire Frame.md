@@ -1,3 +1,5 @@
+> `Rapid-Fire Frame`
+
 > `720 RPM`
 
 > `Kinetic`

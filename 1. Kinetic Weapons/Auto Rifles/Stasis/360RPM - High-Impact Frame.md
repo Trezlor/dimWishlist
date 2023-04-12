@@ -1,3 +1,5 @@
+> `High-Impact Frame`
+
 > `360 RPM`
 
 > `Stasis`
