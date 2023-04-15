@@ -60,4 +60,6 @@ dimwishlist:item=681067419&perks=247725512,3038247973#notes:GM's
 
 ## TEARS OF CONTRITION:
 
+-   Craftable
+
 ---
