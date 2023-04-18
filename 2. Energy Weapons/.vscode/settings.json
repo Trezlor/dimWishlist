@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"**/.vscode": true,
+		"**/_**Title.md": false,
+		"_**Settings.md": false
+	}
+}

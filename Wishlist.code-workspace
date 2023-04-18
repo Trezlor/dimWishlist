@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "root",
+			"path": "./"
+		},
+		{
+			"name": "Kinetic Weapons",
+			"path": "1. Kinetic Weapons"
+		},
+		{
+			"name": "Energy Weapons",
+			"path": "2. Energy Weapons"
+		},
+		{
+			"name": "Heavy Weapons",
+			"path": "3. Heavy Weapons"
+		}
+	],
+	"settings": {}
+}
