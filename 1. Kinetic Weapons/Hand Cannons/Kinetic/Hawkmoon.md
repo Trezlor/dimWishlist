@@ -10,44 +10,24 @@
 
 ## HAWKMOON:
 
--   `Fluted Barrel, Alloy Magazine, Opening Shot, Textured Grip`x
--   `_____________, Alloy Magazine, Opening Shot, Textured Grip`x
--   `Fluted Barrel, Alloy Magazine, Opening Shot, _____________`
--   `_____________, Alloy Magazine, Opening Shot, _____________`
+-   `Smallbore, Alloy Magazine, Rangefinder, Smooth Grip`
+-   `Smallbore, Alloy Magazine, Rangefinder, ___________`
+-   `_________, Alloy Magazine, Rangefinder, Smooth Grip`
+-   `_________, Alloy Magazine, Rangefinder, ___________`
 
-dimwishlist:item=3856705927&perks=1840239774,1431678320,47981717,3917450714#notes:PvP  
-dimwishlist:item=3856705927&perks=1431678320,47981717,3917450714#notes:PvP  
-dimwishlist:item=3856705927&perks=1840239774,1431678320,47981717#notes:PvP  
-dimwishlist:item=3856705927&perks=1431678320,47981717#notes:PvP
+dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,3326204863#notes:PvP  
+dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,notes:PvP  
+dimwishlist:item=3856705927&perks=1431678320,2846385770,3326204863#notes:PvP  
+dimwishlist:item=3856705927&perks=1431678320,2846385770,notes:PvP
 
--   `Fluted Barrel, Alloy Magazine, Rangefinder, Textured Grip`x
--   `_____________, Alloy Magazine, Rangefinder, Textured Grip`x
--   `Fluted Barrel, Alloy Magazine, Rangefinder, _____________`
--   `_____________, Alloy Magazine, Rangefinder, _____________`
+-   `Smallbore, Alloy Magazine, Eye of the Storm, Smooth Grip`
+-   `Smallbore, Alloy Magazine, Eye of the Storm, ___________`
+-   `_________, Alloy Magazine, Eye of the Storm, Smooth Grip`
+-   `_________, Alloy Magazine, Eye of the Storm, ___________`
 
-dimwishlist:item=3856705927&perks=1840239774,1431678320,2846385770,3917450714#notes:PvP  
-dimwishlist:item=3856705927&perks=1431678320,2846385770,3917450714#notes:PvP  
-dimwishlist:item=3856705927&perks=1840239774,1431678320,2846385770#notes:PvP  
-dimwishlist:item=3856705927&perks=1431678320,2846385770#notes:PvP
-
--   `Fluted Barrel, Alloy Magazine, Killing Wind, Textured Grip`x
--   `_____________, Alloy Magazine, Killing Wind, Textured Grip`x
--   `Fluted Barrel, Alloy Magazine, Killing Wind, _____________`
--   `_____________, Alloy Magazine, Killing Wind, _____________`
-
-dimwishlist:item=3856705927&perks=1840239774,1431678320,2450788523,3917450714#notes:PvP  
-dimwishlist:item=3856705927&perks=1431678320,2450788523,3917450714#notes:PvP  
-dimwishlist:item=3856705927&perks=1840239774,1431678320,2450788523#notes:PvP  
-dimwishlist:item=3856705927&perks=1431678320,2450788523#notes:PvP
-
--   `Fluted Barrel, Alloy Magazine, Eye of the Storm, Textured Grip`x
--   `_____________, Alloy Magazine, Eye of the Storm, Textured Grip`x
--   `Fluted Barrel, Alloy Magazine, Eye of the Storm, _____________`
--   `_____________, Alloy Magazine, Eye of the Storm, _____________`
-
-dimwishlist:item=3856705927&perks=1840239774,1431678320,699525795,3917450714#notes:PvP  
-dimwishlist:item=3856705927&perks=1431678320,699525795,3917450714#notes:PvP  
-dimwishlist:item=3856705927&perks=1840239774,1431678320,699525795#notes:PvP  
-dimwishlist:item=3856705927&perks=1431678320,699525795#notes:PvP
+dimwishlist:item=3856705927&perks=1482024992,1431678320,699525795,3326204863#notes:PvP  
+dimwishlist:item=3856705927&perks=1482024992,1431678320,699525795,notes:PvP  
+dimwishlist:item=3856705927&perks=1431678320,699525795,3326204863#notes:PvP  
+dimwishlist:item=3856705927&perks=1431678320,699525795,notes:PvP
 
 ---
