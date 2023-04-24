@@ -12,7 +12,7 @@
 
 -   `Trash`
 
-dimwishlist:item=2870169846#notes:Trash
+dimwishlist:item=-2870169846#notes:Trash
 
 ---
 

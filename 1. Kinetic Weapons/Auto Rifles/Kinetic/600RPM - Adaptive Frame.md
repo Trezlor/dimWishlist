@@ -62,7 +62,7 @@ dimwishlist:item=602618796&perks=1820235745,3425386926#notes:PvE
 
 -   `Trash`
 
-dimwishlist:item=-1690783811&perks=2779035018,4082225868#notes:Trash
+dimwishlist:item=-1690783811#notes:Trash
 
 ---
 
