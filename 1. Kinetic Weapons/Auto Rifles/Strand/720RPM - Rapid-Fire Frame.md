@@ -23,10 +23,10 @@
 -   `_________Rewind Rounds, Enhanced Target Lock`
 -   `Enhanced Rewind Rounds, Enhanced Target Lock`
 
-dimwishlist:item=342514437&perks=3418782618,365154968#notes:PvE & GM's  
-dimwishlist:item=342514437&perks=1563455254,365154968#notes:PvE & GM's  
-dimwishlist:item=342514437&perks=3418782618,2939589096#notes:PvE & GM's  
-dimwishlist:item=342514437&perks=1563455254,2939589096#notes:PvE & GM's
+dimwishlist:item=342514437&perks=3418782618,365154968#notes:PvE  
+dimwishlist:item=342514437&perks=1563455254,365154968#notes:PvE  
+dimwishlist:item=342514437&perks=3418782618,2939589096#notes:PvE  
+dimwishlist:item=342514437&perks=1563455254,2939589096#notes:PvE
 
 -   `_________Rewind Rounds, _________Frenzy`
 -   `Enhanced Rewind Rounds, _________Frenzy`

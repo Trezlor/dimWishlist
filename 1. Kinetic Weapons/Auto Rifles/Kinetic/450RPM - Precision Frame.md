@@ -59,14 +59,12 @@ dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:PvE
 -   `Armor-Piercing Rounds, Fourth Time's the Charm, Vorpal Weapon`
 -   `_____________________, Fourth Time's the Charm, Vorpal Weapon`
 
-dimwishlist:item=1561006927&perks=1968497646,1354429876,1546637391#notes:GM's  
-dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:GM's
+dimwishlist:item=1561006927&perks=1968497646,1354429876,1546637391#notes:PvE dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:PvE
 
 -   `Armor-Piercing Rounds, Auto-Loading, Vorpal Weapon`
 -   `_____________________, Auto-Loading, Vorpal Weapon`
 
-dimwishlist:item=1561006927&perks=1968497646,3300816228,1546637391#notes:GM's  
-dimwishlist:item=1561006927&perks=3300816228,1546637391#notes:GM's
+dimwishlist:item=1561006927&perks=1968497646,3300816228,1546637391#notes:PvE dimwishlist:item=1561006927&perks=3300816228,1546637391#notes:PvE
 
 ---
 
@@ -78,7 +76,7 @@ dimwishlist:item=1561006927&perks=3300816228,1546637391#notes:GM's
 -   `Fourth Time's the Charm, Target Lock`
 
 dimwishlist:item=4070357005&perks=1354429876,4104185692#notes:PvE  
-dimwishlist:item=4070357005&perks=1354429876,365154968#notes:PvE & GM's
+dimwishlist:item=4070357005&perks=1354429876,365154968#notes:PvE
 
 ---
 

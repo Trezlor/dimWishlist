@@ -19,7 +19,7 @@ dimwishlist:item=2852052802&perks=1820235745,4049631843#notes:PvE
 -   `Armor-Piercing Rounds, Auto-Loading, Vorpal Weapon`
 -   `_____________________, Auto-Loading, Vorpal Weapon`
 
-dimwishlist:item=2852052802&perks=1968497646,3300816228,1546637391#notes:GM's  
-dimwishlist:item=2852052802&perks=3300816228,1546637391#notes:GM's
+dimwishlist:item=2852052802&perks=1968497646,3300816228,1546637391#notes:PvE  
+dimwishlist:item=2852052802&perks=3300816228,1546637391#notes:PvE
 
 ---

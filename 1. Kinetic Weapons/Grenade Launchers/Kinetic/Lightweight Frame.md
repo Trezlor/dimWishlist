@@ -11,28 +11,8 @@
 -   `Disorienting Grenades, Field-Prep, One for All`
 -   `Disorienting Grenades, Slideshot_, One for All`
 
-dimwishlist:item=304659313&perks=3032599245,2869569095,4049631843#notes:PvE & GM's  
-dimwishlist:item=304659313&perks=3032599245,3161816588,4049631843#notes:PvE & GM's
-
--   `Disorienting Grenades, Spike Grenades, Field Prep, Vorpal Weapon`x
--   `_________________, Spike Grenades, Field Prep, Vorpal Weapon`
-
-dimwishlist:item=304659313&perks=3032599245,3301904089,2869569095,1546637391#notes:PvE & GM's  
-dimwishlist:item=304659313&perks=3301904089,2869569095,1546637391#notes:PvE
-
--   `Disorienting Grenades, Spike Grenades, Slideshot, Vorpal Weapon`x
--   `Disorienting Grenades, ______________, Slideshot, Vorpal Weapon`
--   `_________________, Spike Grenades, Slideshot, Vorpal Weapon`
--   `Disorienting Grenades, Spike Grenades, _________, Vorpal Weapon`x
--   `_________________, Spike Grenades, _________, Vorpal Weapon`
--   `Disorienting Grenades, ______________, _________, Vorpal Weapon`
-
-dimwishlist:item=304659313&perks=3032599245,3301904089,3161816588,1546637391#notes:PvE & GM's  
-dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:PvE & GM's  
-dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:PvE  
-dimwishlist:item=304659313&perks=3032599245,3301904089,1546637391#notes:PvE & GM's  
-dimwishlist:item=304659313&perks=3301904089,1546637391#notes:PvE  
-dimwishlist:item=304659313&perks=3032599245,1546637391#notes:PvE & GM's
+dimwishlist:item=304659313&perks=3032599245,2869569095,4049631843#notes:PvE
+dimwishlist:item=304659313&perks=3032599245,3161816588,4049631843#notes:PvE
 
 ---
 
@@ -48,11 +28,19 @@ dimwishlist:item=304659313&perks=3032599245,1546637391#notes:PvE & GM's
 
 ## THE MILITIAS BIRTHRIGHT (S18):
 
+-   `Disorienting Grenades, Lead From Gold, Auto-Loading Holster`
+
+dimwishlist:item=40394833&perks=3032599245,1556840489,3300816228#notes:PvE
+
 ---
 
 <img src="https://bungie.net/common/destiny2_content/screenshots/2378101424.jpg" width="500px" style="border-radius: 16px">
 
 ## THE MILITIAS BIRTHRIGHT (ADEPT) (S18):
+
+-   `Disorienting Grenades, Lead From Gold, Auto-Loading Holster`
+
+dimwishlist:item=2378101424&perks=3032599245,1556840489,3300816228#notes:PvE
 
 ---
 
@@ -60,10 +48,18 @@ dimwishlist:item=304659313&perks=3032599245,1546637391#notes:PvE & GM's
 
 ## THE MILITIAS BIRTHRIGHT (S20):
 
+-   `Disorienting Grenades, Lead From Gold, Auto-Loading Holster`
+
+dimwishlist:item=1854753405&perks=3032599245,1556840489,3300816228#notes:PvE
+
 ---
 
 <img src="https://bungie.net/common/destiny2_content/screenshots/4162642204.jpg" width="500px" style="border-radius: 16px">
 
 ## THE MILITIAS BIRTHRIGHT (ADEPT) (S20):
+
+-   `Disorienting Grenades, Lead From Gold, Auto-Loading Holster`
+
+dimwishlist:item=4162642204&perks=3032599245,1556840489,3300816228#notes:PvE
 
 ---

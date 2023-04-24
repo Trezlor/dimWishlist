@@ -22,7 +22,7 @@ dimwishlist:item=435216110&perks=3400784728,3425386926#notes:PvE
 
 -   `Triple Tap, Vorpal Weapon`
 
-dimwishlist:item=435216110&perks=3400784728,1546637391#notes:GM's
+dimwishlist:item=435216110&perks=3400784728,1546637391#notes:PvE
 
 ---
 
@@ -42,7 +42,7 @@ dimwishlist:item=1135050595&perks=3400784728,3425386926#notes:PvE
 
 -   `Triple Tap, Vorpal Weapon`
 
-dimwishlist:item=1135050595&perks=3400784728,1546637391#notes:GM's
+dimwishlist:item=1135050595&perks=3400784728,1546637391#notes:PvE
 
 ---
 
