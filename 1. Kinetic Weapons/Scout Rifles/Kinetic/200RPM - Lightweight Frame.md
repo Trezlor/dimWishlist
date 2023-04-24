@@ -21,3 +21,9 @@ dimwishlist:item=3504336176&perks=247725512,3038247973#notes:GM's
 dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:GM's
 
 ---
+
+<img src="" width="500px" style="border-radius: 16px">
+
+## TARAXIPPOS:
+
+---

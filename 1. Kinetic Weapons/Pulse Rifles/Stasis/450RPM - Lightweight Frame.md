@@ -10,4 +10,8 @@
 
 ## STAY FROSTY:
 
+-   `Trash`
+
+dimwishlist:item=-2812100428#notes:Trash
+
 ---

@@ -10,11 +10,9 @@
 
 ## HAILING CONFUSION:
 
--   `Outlaw, Demolitionist`
--   `Outlaw, Wellspring___`
+-   `Trash`
 
-dimwishlist:item=2870169846&perks=1168162263,3523296417#notes:PvE  
-dimwishlist:item=2870169846&perks=1168162263,3592538738#notes:PvE
+dimwishlist:item=2870169846#notes:Trash
 
 ---
 
@@ -29,5 +27,9 @@ dimwishlist:item=2870169846&perks=1168162263,3592538738#notes:PvE
 <img src="https://bungie.net/common/destiny2_content/screenshots/3407395594.jpg" width="500px" style="border-radius: 16px">
 
 ## SMITE OF MERAIN (HARROWED):
+
+-   `Demolitionist, Firefly`
+
+dimwishlist:item=3407395594&perks=3523296417,3824105627#notes:PvE
 
 ---
