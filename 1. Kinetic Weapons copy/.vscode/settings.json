@@ -1,7 +1,0 @@
-{
-	"files.exclude": {
-		"**/.vscode": true,
-		"**/_**Title.md": true,
-		"_**Settings.md": true
-	}
-}

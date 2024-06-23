@@ -6,8 +6,10 @@
 
 ---
 
-<img src="https://bungie.net/common/destiny2_content/screenshots/3678653083.jpg" width="500px" style="border-radius: 16px">
+<img src="https://bungie.net/common/destiny2_content/screenshots/392008588.jpg" width="500px" style="border-radius: 16px">
 
-## OLD STERLING (S21):
+## PERPETUALIS:
+
+-   Craftable
 
 ---

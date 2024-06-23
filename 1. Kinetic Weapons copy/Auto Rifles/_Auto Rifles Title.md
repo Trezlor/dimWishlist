@@ -1,3 +1,0 @@
-# AUTO RIFLES:
-
----
